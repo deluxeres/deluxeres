@@ -98,22 +98,12 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7n9csgl4ozib4e9stvs9zvn8l&cover_image=true&theme=default" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VadimChorrny&&style=flat-square" align="center" />
-</div>  
-  
+ 
 
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/VadimChorrny" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/chorrny" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/leunovrusya" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
