@@ -4,16 +4,13 @@
 </div>  
   
 
-### <div align="center">I'm Vadym, a full-time full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Ruslan, a full-time full-stack freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Freelance](https://freelancehunt.com/freelancer/chorrny.html)  
+- 🔭 I’m currently working on [Freelance](https://freelancehunt.com/freelancer/Deluxe_Redit.html)  
   
 
 - 🌱 I’m currently learning Web3  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
