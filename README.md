@@ -7,7 +7,7 @@
 ### <div align="center">I'm Ruslan, a full-time full-stack freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Freelance](https://freelancehunt.com/freelancer/Deluxe_Redit.html)  
+- 🔭 Current Freelance Account [Freelance](https://freelancehunt.com/freelancer/Deluxe_Redit.html)  
   
 
 - 🌱 I’m currently learning Web3  
